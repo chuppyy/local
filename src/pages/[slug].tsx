@@ -208,9 +208,9 @@ export async function getStaticProps({ params }: { params: any }) {
       //Code auto 
       googleClientId: "ca-pub-2388584177550957",
       //GA tiêu đề
-      googleClientSlotId:"3583188291",
+      googleClientSlotId:"7316510903",
       //GA sau video
-      googleAdSlot: "2446463928",
+      googleAdSlot: "2838193935",
 //Cái sau
       mgWidgetId1: "1677046",
       //Cái trước
@@ -220,7 +220,7 @@ export async function getStaticProps({ params }: { params: any }) {
       //scrip adkeeper
       adsKeeperSrc: "https://jsc.adskeeper.com/site/986653.js",
       //Analytic
-      googleTagId: "G-P27E7E42R2",
+      googleTagId: "G-CPFRWM48QG",
     };
 
     return {

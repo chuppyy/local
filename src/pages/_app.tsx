@@ -8,8 +8,8 @@ export default function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
-        <script defer src="https://videoadstech.org/ads/lifenews_livextop_com.907da7a8-d82d-4786-a384-323a8c25c008.video.js"></script>
-        <script async src="https://server.adhub.media/ads/lifenews_livextop_com.d6ad0063-eeb0-4ee6-8965-bbac9976766a.display.js"></script>
+        <script defer src="https://videoadstech.org/ads/local_livextop_com.33da6ffa-46b1-48c7-9287-a33560335e3f.video.js"></script>
+        <script async src="https://server.adhub.media/ads/local_livextop_com.2a96703a-9d15-4135-ba2f-1f66e06c4c7d.display.js"></script>
       </Head>
 
       <Layout>
